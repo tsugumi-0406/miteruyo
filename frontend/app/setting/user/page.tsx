@@ -1,5 +1,5 @@
-import { LoginButton, RecordButton, PageButton } from "../components/button";
-import Input from "../components/input";
+import { LoginButton, RecordButton, PageButton } from "../../components/button";
+import Input from "../../components/input";
 
 function App() {
   return (
